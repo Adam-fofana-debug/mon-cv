@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mon CV</title>
+</head>
+<body>
+
+  <header>
+    <h1> Adam fofana</h1>
+    <img src="https://via.placeholder.com/150" alt="Photo de profil" />
+  </header>
+
+  <main>
+    <section>
+      <h2>Présentation</h2>
+      <p>Bonjour, je m'appelle Adam fofana  et je me forme pour devenir web designer en autodidacte. Ce site est mon premier projet HTML.</p>
+    </section>
+
+    <section>
+      <h2>Compétences</h2>
+      <ul>
+        <li>HTML</li>
+        <li>Créativité</li>
+        <li>Motivation</li>
+        <li>Apprentissage autonome</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Expérience</h2>
+      <p>Je débute dans le domaine, mais je suis déjà capable de structurer une page HTML simple.</p>
+    </section>
+
+    <section>
+      <h2>Site préféré</h2>
+      <p>J'aime apprendre avec <a href="https://www.freecodecamp.org" target="_blank">FreeCodeCamp</a>.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>Contact : adamfofana624@gmail.com</p>
+    <p>Suivez-moi sur <a href="https://github.com/tonpseudo" target="_blank">GitHub</a></p>
+  </footer>
+
+</body>
+</html>
